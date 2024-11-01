@@ -16,3 +16,4 @@ set(CMSIS_DEVICE_INC_DIR "$ENV{CubeF1}/Drivers/CMSIS/Device/ST/STM32F1xx/Include
 
 add_subdirectory(blink)
 add_subdirectory(binary_counter)
+add_subdirectory(display7_seg)
